@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    text-align: center;
+    padding-top:800px;
+}
+p{
+  font-size: 50px;
+}
+#name{
+      position:absolute;
+  z-index:9;
+    display:table;
+    height:100%;
+  width:100%;
+        color:#fff;
+    bottom:0;
+    background: linear-gradient(to top left, #ff3399 0%, #ccccff 100%);
+}
+#boo{
+  max-width:450px;
+  margin:25px auto;
+  font-size:17px;
+line-height:1.2;
+}
+#me{
+    width:450px;
+    height:300px;
+    border-radius:200px;
+}
